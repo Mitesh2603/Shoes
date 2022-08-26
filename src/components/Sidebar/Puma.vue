@@ -1,0 +1,3 @@
+<template>
+    Puma
+</template>
